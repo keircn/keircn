@@ -1,6 +1,4 @@
 # Keiran
-### i make things
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q4ow&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)
