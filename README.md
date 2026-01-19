@@ -7,3 +7,9 @@ I mainly use Codeberg for personal stuff but I'm active on both platforms
 
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keircn&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<!--
+## Streak
+
+![Streak](https://streak-stats.demolab.com/?user=keircn&theme=dark&hide_border=true)
+-->
